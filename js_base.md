@@ -5,7 +5,7 @@
 ## canvas图片转换及压缩
 
 ```javascript
-/**
+    /**
      * 压缩图片
      * @param src 图片url
      * @param quality 图片质量
