@@ -10,6 +10,6 @@ npm install easywebpack-cli -g
 ```bash
 easywebpack init
 ```
-(./images/webpack/1.jpg)
+[./images/webpack/1.jpg]
 
 
