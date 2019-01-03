@@ -11,6 +11,11 @@ npm install easywebpack-cli -g
 easywebpack init
 ```
 <img src="./images/webpack/1.jpg"/>
+<img src="./images/webpack/2.jpg"/>
+<img src="./images/webpack/3.jpg"/>
+<img src="./images/webpack/4.jpg"/>
+
+- [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate) 相关说明
 
 
 
