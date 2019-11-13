@@ -17,5 +17,3 @@ easywebpack init
 
 - [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate) 相关说明
 
-
-
